@@ -13,6 +13,5 @@ always @(*) begin
                  data_rx[6] ^
                  data_rx[7] ^
                  parity_rx;
-
 end
 endmodule
