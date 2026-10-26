@@ -1,6 +1,4 @@
-
 # Parity Error Detector
-
 # Cac truong hop kiem tra
 test_data = [178, 178, 255, 255, 0]
 test_error = [0, 1, 0, 1, 0]
